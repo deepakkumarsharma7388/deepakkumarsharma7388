@@ -13,10 +13,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepakkumarsharma7388&theme=tokyonight&no-bg=true&margin-w=5" />
-</p>
+
 
 ---
 
