@@ -6,14 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Next.js+Learner;Open+to+Opportunities" />
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepakkumarsharma7388&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumarsharma7388" />
-</p>
-
-
-
-
 
 ---
 
