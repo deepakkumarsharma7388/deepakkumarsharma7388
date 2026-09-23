@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 - 🔭 Working on **Course-Selling-App**
-- 🌱 Learning **Next.js**
+- 🌱 Learning **AI/ML**
 - 💬 Ask me about **MERN Stack**
 - 📫 Reach me at **deepakkumarsharma7388@gmail.com**
 
