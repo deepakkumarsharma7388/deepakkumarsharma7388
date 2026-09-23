@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Working on **Course-Selling-App**
+- 🔭 Working on **Terastamp**
 - 🌱 Learning **AI/ML**
 - 💬 Ask me about **MERN Stack**
 - 📫 Reach me at **deepakkumarsharma7388@gmail.com**
